@@ -1,0 +1,29 @@
+Drake	Obama	Go Raptors! Go!	Raptors
+This line is invalid
+Tory	Drake	Yes Toronto will get them!	Raptors
+Tory	Obama	Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia	Raptors
+Drake	Bieber	We pay too much dough	Taxes
+Drake	Obama	Go Raptors! Go!	Raptors
+Tory	Drake	Yes Toronto will get them!	Raptors
+Tory	Obama	Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia	Raptors
+Trudeau	Bieber	Go Raptors! Go!	Ford
+This line is invalid
+Drake	Obama	Go Raptors! Go!	WeTheNorth
+Tory	Drake	Yes Toronto will get them!	Raptors
+Trudeau	Obama	Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia	WeTheNorth
+Drake	Bieber	Go Leafs! Go!	Leaf
+Drake	Obama	Go Raptors! Go!	Raptors
+Tory	Drake	Yes Toronto will get them!	Raptors
+This line is invalid
+Putin	May	Almost in the playoffs	Raptors
+Trudeau	Bieber	Go Raptors! Go!	Ford
+Drake	Obama	Go Raptors! Go!	WeTheNorth
+Drake	Obama	Go Jays! Go!	Jays
+Tory	Drake	Yes Toronto will get them!	Leafs
+This line is invalid
+Tory	Trump	Toronto joins cities around the world to celebrate International Day Against Homophobia & Transphobia	Raptors
+Trudeau	Bieber	Go Raptors! Go!	Raptors
+Drake	Obama	Go Raptors! Go!	WeTheNorth
+Tory	Pence	Yes Toronto will get them!	Jays
+Trudeau	Obama	Toronto is the greatest city!	WeTheNorth
+Drake	Bieber	Go Leafs! Go!	Leaf

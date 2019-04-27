@@ -1,0 +1,7 @@
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\bin\Debug\Program.exe.config
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\bin\Debug\Program.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\bin\Debug\Program.pdb
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\obj\Debug\Program.exe
+C:\Users\Function\Desktop\Courses [Main]\Programming 2 [COMP-123]\Assignments\Assignment 3\sec006-5_COMP123_03\Program\obj\Debug\Program.pdb
